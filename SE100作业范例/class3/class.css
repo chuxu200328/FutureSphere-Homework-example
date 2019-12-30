@@ -1,0 +1,29 @@
+body {
+  margin: 0;
+  text-align: center;
+}
+img {
+  height: 200px;
+  width: 200px;
+  margin: 5px;
+}
+.photos {
+  background-image: url(http://img1.dowebok.com/942.jpg);
+  width: 100%;
+}
+.photosTitle {
+  margin-top: 0;
+  padding-top: 20px;
+  color: white;
+  font-size: 30px;
+}
+.nav {
+  text-align: left;
+  padding: 10px;
+  background-color: aqua;
+}
+.nav img {
+  height: 50px;
+  width: 110px;
+  margin-right: 20px;
+}
